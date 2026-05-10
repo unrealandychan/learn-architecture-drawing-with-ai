@@ -41,6 +41,7 @@ A practical guide to creating professional architecture diagrams, flowcharts, an
 [03 - Draw.io](./03-drawio/) | Draw.io / diagrams.net | Professional enterprise diagrams
 [04 - AI Prompts](./04-ai-prompts/) | ChatGPT / Claude / Gemini | Generate any diagram from plain English
 [05 - Real World](./05-real-world/) | All tools | Netflix, Uber, WhatsApp architectures
+[07 - ⚡ Build with AI](./07-build-with-ai/) | All tools | **The complete AI+Human speed workflow** ⭐ *Start here*
 [skills/](./skills/) | Hermes Agent | Installable AI skill for diagram generation
 [mcp/](./mcp/) | MCP Servers | Live diagram rendering inside AI conversations
 
