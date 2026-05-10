@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "mermaid": {
+      "command": "npx",
+      "args": ["-y", "mermaid-mcp-server"],
+      "description": "Render and validate Mermaid diagrams"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+# Hermes Agent — MCP config snippet
+# Add this to ~/.hermes/config.yaml
+
+mcp:
+  servers:
+    mermaid:
+      command: npx
+      args: [-y, mermaid-mcp-server]
+      description: Render and validate Mermaid diagrams
