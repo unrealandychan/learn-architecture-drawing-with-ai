@@ -45,6 +45,23 @@ A practical guide to creating professional architecture diagrams, flowcharts, an
 [skills/](./skills/) | Hermes Agent | Installable AI skill for diagram generation
 [mcp/](./mcp/) | MCP Servers | Live diagram rendering inside AI conversations
 
+### 🆕 Example Gallery
+
+**File** | **Topic** | **Diagrams Inside**
+--- | --- | ---
+[examples/ai-architecture.md](./01-mermaid/examples/ai-architecture.md) | AI / ML Systems | RAG pipeline, LLM gateway, MLOps, AI agent
+[examples/cloud-infra.md](./01-mermaid/examples/cloud-infra.md) | Cloud Infrastructure | AWS 3-tier, Kubernetes, multi-cloud, CI/CD
+[examples/work-progress.md](./01-mermaid/examples/work-progress.md) | Work Progress | Sprint board, Gantt, incident workflow, feature delivery
+
+### 📐 Ready-to-Use Templates
+
+**Template** | **Use When…**
+--- | ---
+[templates/ai-ml-pipeline.md](./templates/ai-ml-pipeline.md) | Building a RAG chatbot, ML training pipeline, or AI agent
+[templates/cloud-infra.md](./templates/cloud-infra.md) | Designing a cloud app or k8s cluster
+[templates/microservices.md](./templates/microservices.md) | Building an API gateway or event-driven service mesh
+[templates/work-progress.md](./templates/work-progress.md) | Planning a project Gantt or feature delivery workflow
+
 ---
 
 ## ⚡ Quick Start — Your First AI Diagram in 60 Seconds

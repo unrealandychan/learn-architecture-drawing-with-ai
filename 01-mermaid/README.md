@@ -352,4 +352,15 @@ State:          stateDiagram-v2
 
 ---
 
-➡️ Next: See [examples/flowchart.md](examples/flowchart.md) for 5 real-world flowcharts.
+## Examples in This Folder
+
+| File | What's Inside |
+|---|---|
+| [examples/flowchart.md](examples/flowchart.md) | Auth flow, CI/CD pipeline, e-commerce checkout, incident response, data processing |
+| [examples/sequence.md](examples/sequence.md) | API calls, auth, service-to-service communication |
+| [examples/architecture.md](examples/architecture.md) | URL shortener, real-time chat, e-commerce platform |
+| [examples/ai-architecture.md](examples/ai-architecture.md) | RAG pipeline, LLM API gateway, MLOps, AI agent |
+| [examples/cloud-infra.md](examples/cloud-infra.md) | AWS three-tier app, Kubernetes cluster, multi-cloud, CI/CD to k8s |
+| [examples/work-progress.md](examples/work-progress.md) | Sprint board, project Gantt, incident response, feature delivery workflow |
+
+➡️ Looking for a blank starting point? See [templates/](../templates/) for ready-to-use templates.
